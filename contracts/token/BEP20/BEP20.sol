@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity >=0.4.0;
+pragma solidity >=0.7.0;
 
 import '../../access/Ownable.sol';
 import '../../GSN/Context.sol';
